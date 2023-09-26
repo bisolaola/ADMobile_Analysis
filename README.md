@@ -8,6 +8,7 @@ To conduct this analysis, the following was conducted:
 3. Data modification and restrictions
 4. Analysis
 5. Visualization of insight in a dashboard 
+
 The result revealed that AD Mobile retained 93% of its customers over the three months period.
 It also signified that a high satisfaction score influences the rate customers terminate contracts. The higher the satisfaction score, the less likely customers of the company terminate their contracts.
 Lastly, pay-as-you-go consumers have the highest tendency of terminating compared to consumers with other contract types.
