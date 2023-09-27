@@ -1,4 +1,4 @@
-# bisoOla
+# About AD Mobile Analysis
 This analysis is for a fictional mobile phone provider called AD Mobile. AD Mobile wants to analyse its customer database with the objective to improve customer loyalty. 
 It provide a 5% random sample of the customer activities for the last 3 months in two relational datasets, customer data and satisfaction score data. Using these datasets,
 this analysis focused on answering the business question 'how loyal are the customers of AD Mobile?' and the 'contract terminated' variable as the key performance indicator (KPI). 
