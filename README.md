@@ -14,6 +14,7 @@ It also signified that a high satisfaction score influences the rate customers t
 Lastly, pay-as-you-go consumers have the highest tendency of terminating compared to consumers with other contract types.
 
 # Dashboard
+Visualisation was done in R using the ggplot 
 
 ![Dashboard](https://github.com/bisolaola/ADMobile_Analysis/assets/137617628/85a3727a-02f1-4200-9216-6e4294ba52c8)
 
